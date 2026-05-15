@@ -80,7 +80,7 @@ The two data figures (`fig1_paper_vs_live.png`, `fig2_pnl_inflation_over_time.pn
 
 ## Companion repositories
 
-- **[polymarket-live](https://github.com/clee12111/polymarket-live)** — Live execution skeleton with the bot that actually deployed to real capital. *(Publishing pending — README refresh in progress.)*
+- **[polymarket-live](https://github.com/clee12111/polymarket-live)** — Live execution environment with the bot configs, trader variants, kill switches, and operational scripts that ran the May 2026 deployment.
 - **polymarket-vault** — Research and infrastructure working repo. *Permanently private.* Access available on request for serious technical reviews.
 
 ---
